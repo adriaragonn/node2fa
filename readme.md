@@ -16,13 +16,13 @@ A simple and robust Two-Factor Authentication (2FA) library for Node.js and Nest
 ## Installation
 
 ```bash
-npm install node2fa
+npm install @adriaragonn/node2fa
 ```
 
 or
 
 ```bash
-yarn add node2fa
+yarn add @adriaragonn/node2fa
 ```
 
 ## Usage
