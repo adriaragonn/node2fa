@@ -1,6 +1,6 @@
 {
   "name": "@adriaragonn/node2fa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and robust Two-Factor Authentication (2FA) library for Node.js using TOTP.",
   "license": "MIT",
   "author": "adriaragonn",
@@ -39,4 +39,3 @@
     "typescript": "^5.9.2"
   }
 }
-
