@@ -28,7 +28,7 @@ yarn add @adriaragonn/node2fa
 ## Usage
 
 ```ts
-import { TotpService } from 'node2fa';
+import { TotpService } from '@adriaragonn/node2fa';
 
 async function main() {
   const service = new TotpService({ name: 'MyApp', window: 1 });
