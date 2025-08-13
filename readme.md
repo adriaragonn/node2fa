@@ -1,6 +1,6 @@
 # node2fa
 
-[![npm version](https://img.shields.io/npm/v/node2fa.svg)](https://www.npmjs.com/package/node2fa)
+[![npm version](https://img.shields.io/npm/v/node2fa.svg)](https://www.npmjs.com/package/@adriaragonn/node2fa)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 A simple and robust Two-Factor Authentication (2FA) library for Node.js and NestJS using TOTP.
