@@ -28,10 +28,10 @@ yarn add @adriaragonn/node2fa
 ## Usage
 
 ```ts
-import { TotpService } from '@adriaragonn/node2fa';
+import { node2fa } from '@adriaragonn/node2fa';
 
 async function main() {
-  const service = new TotpService({ name: 'MyApp', window: 1 });
+  const service = new node2fa.TotpService({ name: 'MyApp', window: 1 });
 
   // Generate a secret
   const secret = service.generateSecret();
